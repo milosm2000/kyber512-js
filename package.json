@@ -16,10 +16,21 @@
   "keywords": [
     "kyber",
     "post-quantum",
-    "cryptography"
+    "cryptography",
+    "encryption",
+    "kem",
+    "quantum-resistant",
+    "public-key",
+    "crypto-algorithm",
+    "javascript",
+    "web-crypto"
   ],
   "author": "Miloš Mirković",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milosm2000/kyber512-js.git"
+  },
   "description": "A lightweight implementation of the Kyber512 post-quantum cryptographic algorithm. Provides key generation, encapsulation, and decapsulation functions for quantum-resistant public-key encryption.",
   "devDependencies": {
     "terser-webpack-plugin": "^5.3.10",
