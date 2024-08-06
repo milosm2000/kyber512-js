@@ -1,6 +1,6 @@
 # Kyber512-js
 
-A JavaScript implementation of the Kyber512 post-quantum cryptographic algorithm, compatible with both Node.js and browser environments.
+A JavaScript implementation of the Kyber512 post-quantum cryptographic algorithm, compatible with both Node.js and browser environments. It includes TypeScript declarations (.d.ts files) for improved IDE support, type checking, and autocompletion.
 
 ## Features
 
